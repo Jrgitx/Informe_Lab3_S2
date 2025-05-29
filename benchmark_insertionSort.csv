@@ -1,0 +1,9 @@
+insertionSort, price, 100, 1
+insertionSort, price, 10k, 129
+insertionSort, price, 1M, mas de 300 segundos
+insertionSort, quality, 100, 1
+insertionSort, quality, 10k, 134
+insertionSort, quality, 1M, mas de 300 segundos
+insertionSort, category, 100, 2
+insertionSort, category, 10k, 166
+insertionSort, category, 1M, mas de 300 segundos

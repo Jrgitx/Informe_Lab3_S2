@@ -1,0 +1,8 @@
+selectionSort, price, 100, 1
+selectionSort, price, 10k, 186
+selectionSort, price, 1M, mas de 60 seg
+selectionSort, quality, 100, 1
+selectionSort, quality, 10k, 186
+selectionSort, quality, 1M, mas de 60 seg
+selectionSort, category, 100, 2
+selectionSort, category, 10k, 384
